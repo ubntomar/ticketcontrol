@@ -1,0 +1,14 @@
+{
+  "name": "ticketcontrol",
+  "version": "1.0.0",
+  "description": "gestor de soporte tecnico a clientes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Omar Hernandez Diaz",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0"
+  }
+}
